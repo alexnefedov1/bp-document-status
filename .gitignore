@@ -1,0 +1,12 @@
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# 1C local dumps (if any)
+*.cf
+*.dt
